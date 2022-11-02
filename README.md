@@ -1,4 +1,4 @@
-# health to vehicle insurance prediction
+# health insurance customers opting for vehicle insurance prediction
 
 This project is a solution to a Prediction problem posted on Kaggle.com
 
